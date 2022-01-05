@@ -7,9 +7,9 @@ If you are the manufacturer or ambassador of such a module and it is not yet in 
 
 **Data structure:**
 
-| # | Module  | Module Description | Chip | Address Mask(s) | Address Range(s) | Module Vendor Link | Module GitHub | 
+| # | Module  | Module Description | Chip | Address Mask(s) | Address Range(s) | Module Vendor Link | Module Project | 
 | --- | ------------- | ------------- | ------------- | ---------------------- | ------------- | ------------- | ------------- |
-| 1 | I2CUI4_V1 | User Interface 5-key I2C Keypad with RGB-LED and Buzzer | MCP230017  | 0100 A2 A1 A0 | 0x20 - 0x27 | site | github link |
+| 1 | I2CUI4_V1 | User Interface 5-key I2C Keypad with RGB-LED and Buzzer | MCP230017  | 0100 A2 A1 A0 | 0x20 - 0x27 | site | project link |
 
 **\#** - row ID.
 
@@ -25,10 +25,11 @@ If you are the manufacturer or ambassador of such a module and it is not yet in 
 
 **Module Vendor Link** - Link to the product page on the module vendor's site.
 
-**Module GitHub** - Link to the module's GitHub Repository.
+**Module Project** - Link to the module's Project Page: Hackaday Project, GitHub Repository, Hackster, etc.
 
 ## Database
 
 | # | Module  | Module Description | Chip | Address Mask(s) | Address Range(s) | Module Vendor Link | Module GitHub | 
 | --- | ------------- | ------------- | ------------- | ---------------------- | ------------- | ------------- | ------------- |
 | 1 | I2CNavKey | I2C NavKey: 7 functions joypad on the I2C bus | PIC16F18345  | 001 A3 A2 A1 A0 | 0x40 - 0x1F | [hackaday.io](https://hackaday.io/project/164886-i2c-navkey) | [github.com](https://github.com/Fattoresaimon/I2CNavKey) |
+| 2 | I2CUI3 | UI I2C module with 5-key RGB-LED & buzzer | PCA9538 | 11100 A1 A0 | 0x70 - 0x73 | [iot-devices.com.ua](https://iot-devices.com.ua/en/product-uk/i2cui-user-interface/) | [tindie.com](https://www.tindie.com/products/iotdev/i2cui3-ui-i2c-module-with-5-key-rgb-led-buzzer/) |
