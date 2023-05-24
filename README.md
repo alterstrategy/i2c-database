@@ -27,7 +27,9 @@ If you are the manufacturer or ambassador of such a module and it is not yet in 
 
 - **Module Vendor Link** - Link to the product page on the module vendor's site.
 
-- **Module Project** - Link to the module's Project Page: Hackaday Project, GitHub Repository, Hackster, etc.
+- **Module Project** - Link to the module's Project Page: Hackaday Project, GitHub Repository, Hackster, Tindie etc.
+
+- **Home Assistant Support** - Link to the module's Project Page: Hackaday Project, GitHub Repository, Hackster, Tindie etc.
 
 ## Module types
 
