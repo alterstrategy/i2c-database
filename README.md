@@ -29,7 +29,7 @@ If you are the manufacturer or ambassador of such a module and it is not yet in 
 
 - **Module Project** - Link to the module's Project Page: Hackaday Project, GitHub Repository, Hackster, Tindie etc.
 
-- **Home Assistant Support** - Link to the module's Project Page: Hackaday Project, GitHub Repository, Hackster, Tindie etc.
+- **Home Assistant Support** - Link or information on Home Assistant driver support.
 
 ## Module types
 
